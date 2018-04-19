@@ -1,0 +1,7 @@
+C:\Users\aimen\source\repos\ExerciceEtudiant\ExerciceEtudiant\obj\Debug\ExerciceEtudiant.csprojResolveAssemblyReference.cache
+C:\Users\aimen\source\repos\ExerciceEtudiant\ExerciceEtudiant\obj\Debug\ExerciceEtudiant.csproj.CoreCompileInputs.cache
+C:\Users\aimen\source\repos\ExerciceEtudiant\ExerciceEtudiant\bin\Debug\ExerciceEtudiant.exe.config
+C:\Users\aimen\source\repos\ExerciceEtudiant\ExerciceEtudiant\bin\Debug\ExerciceEtudiant.exe
+C:\Users\aimen\source\repos\ExerciceEtudiant\ExerciceEtudiant\bin\Debug\ExerciceEtudiant.pdb
+C:\Users\aimen\source\repos\ExerciceEtudiant\ExerciceEtudiant\obj\Debug\ExerciceEtudiant.exe
+C:\Users\aimen\source\repos\ExerciceEtudiant\ExerciceEtudiant\obj\Debug\ExerciceEtudiant.pdb
